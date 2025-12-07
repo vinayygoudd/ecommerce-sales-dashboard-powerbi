@@ -132,7 +132,7 @@ Digital payments dominate, with COD usage significantly low.
 
 ## 🙌 Author  
 **👤 Dudala Vinay Kumar Goud**  
-Aspiring Data Analyst | Power BI Developer  
+Aspiring Data Analyst   
  
 
 ---
